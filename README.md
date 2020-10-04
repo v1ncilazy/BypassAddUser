@@ -34,3 +34,8 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
 ![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-04_11-50-53.jpg)
 
 ![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-04_11-52-55.jpg)
+
+## 参考链接
+https://blog.csdn.net/weixin_34307464/article/details/94449261
+
+https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/
