@@ -63,7 +63,7 @@ namespace BypassAddUser
         }
 
         /// <summary>
-        /// 把用户添加到Administrators组。添加失败后返回非0
+        /// 把用户添加到本地组。添加失败后返回非0
         /// </summary>
         /// <param name="serverName"></param>机器名，如果是本机，设置为null 
         /// <param name="groupName"></param>
