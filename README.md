@@ -5,6 +5,8 @@
 
 已测Win2008,Win2012,Win2016,Win10都没问题
 
+**注意密码复杂性！！！
+
 ```
 Usage: BypassAddUser.exe -u/-U username -p/-P password -g/-G groups
 Example: BypassAddUser.exe -u test -p testpass -g administrators
