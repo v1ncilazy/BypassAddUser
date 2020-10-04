@@ -1,9 +1,10 @@
 # BypassAddUser
-调用Windows Api，绕过杀软添加用户
+调用Windows Api，绕过杀软添加用户，怎么去使用，就仁者见仁智者见智了
 
 `.NET4.0+`
 
 已测Win2008,Win2012,Win2016,Win10都没问题
+
 
 
 **注意密码复杂性！！！**
