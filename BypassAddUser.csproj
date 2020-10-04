@@ -51,7 +51,11 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Pictures\Snipaste_2020-10-04_11-11-08.jpg" />
+    <Content Include="Pictures\Snipaste_2020-10-04_11-42-15.jpg" />
+    <Content Include="Pictures\Snipaste_2020-10-04_11-47-57.jpg" />
+    <Content Include="Pictures\Snipaste_2020-10-04_11-49-09.jpg" />
+    <Content Include="Pictures\Snipaste_2020-10-04_11-50-53.jpg" />
+    <Content Include="Pictures\Snipaste_2020-10-04_11-52-55.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
