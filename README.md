@@ -39,3 +39,7 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
 https://blog.csdn.net/weixin_34307464/article/details/94449261
 
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/
+
+## 问题建议
+
+欢迎大佬们提出问题或建议
