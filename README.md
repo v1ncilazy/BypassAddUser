@@ -16,9 +16,9 @@
 ### 2020.10.8更新：新增更改用户密码、删除用户功能
 
 ```
-Usage: BypassAddUser.exe -u/-U username -p/-P password -g/-G groups
-       BypassAddUser.exe -c/-C UserName NewPassword
-       BypassAddUser.exe -d/-D UserName
+Usage: BypassAddUser.exe -u/-U username -p/-P password -g/-G groups    添加用户
+       BypassAddUser.exe -c/-C UserName NewPassword    更改用户密码
+       BypassAddUser.exe -d/-D UserName    删除用户
 Example: BypassAddUser.exe -u test -p testpass -g administrators
          BypassAddUser.exe -c test NewtestPass
          BypassAddUser.exe -d test
