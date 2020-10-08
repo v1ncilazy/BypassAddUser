@@ -17,7 +17,11 @@
 
 ```
 Usage: BypassAddUser.exe -u/-U username -p/-P password -g/-G groups
+       BypassAddUser.exe -c/-C UserName NewPassword
+       BypassAddUser.exe -d/-D UserName
 Example: BypassAddUser.exe -u test -p testpass -g administrators
+         BypassAddUser.exe -c test NewtestPass
+         BypassAddUser.exe -d test
 ```
 
 ## 测试环境：360+火绒
