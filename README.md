@@ -23,6 +23,13 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
          BypassAddUser.exe -c test NewtestPass
          BypassAddUser.exe -d test
 ```
+## 更改指定用户密码
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-23-29.jpg)
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-24-14.jpg)
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-26-27.jpg)
 
 ## 测试环境：360+火绒
 
