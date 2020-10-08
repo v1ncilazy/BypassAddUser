@@ -23,7 +23,15 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
          BypassAddUser.exe -c test NewtestPass
          BypassAddUser.exe -d test
 ```
-## 更改指定用户密码
+### 删除指定用户
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-34-48.jpg)
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-35-18.jpg)
+
+![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-37-30.jpg)
+
+### 更改指定用户密码
 
 ![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-23-29.jpg)
 
@@ -31,7 +39,7 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
 
 ![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-08_19-26-27.jpg)
 
-## 测试环境：360+火绒
+### 测试环境：360+火绒
 
 ![images](https://github.com/TryA9ain/BypassAddUser/blob/master/Pictures/Snipaste_2020-10-04_11-56-10.jpg)
 
@@ -51,6 +59,8 @@ Example: BypassAddUser.exe -u test -p testpass -g administrators
 https://blog.csdn.net/weixin_34307464/article/details/94449261
 
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/
+
+https://www.jb51.net/article/35563.htm
 
 ## 问题建议
 
