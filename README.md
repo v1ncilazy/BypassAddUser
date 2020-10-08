@@ -13,6 +13,7 @@
 
 **注意密码复杂性！！！**
 
+2020.10.8更新：新增更改用户密码、删除用户功能
 
 ```
 Usage: BypassAddUser.exe -u/-U username -p/-P password -g/-G groups
